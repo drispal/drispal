@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I am a Computer Science Engineer with a passion for Game Development.<br>🚀 Currently working on a new 3D Hack 'n' Slash game.<br>🔎 Looking for an end of study 6 month internship.<br>📫 Shoot me an Email or add me on LinkedIn.
+👨‍💻 I am a Computer Science Engineer with a passion for Game Development.<br>🚀 Currently working at Beenox.<br>🔎 Looking for a 6 month internship as project manager.<br>📫 Shoot me an Email or add me on LinkedIn.
 
 
 ## 🌐 Socials:
