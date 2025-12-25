@@ -1,7 +1,7 @@
 # 💫 About Me:
-👨‍💻 Computer Science Engineering and Finance.
-🚀 Currently studying at ESSEC Business School.
-🔎 Exploring things
+👨‍💻 Computer Science Engineering and Finance.<br>
+🚀 Currently studying at ESSEC Business School.<br>
+🔎 Exploring things. <br>
 📫 Shoot me an Email or add me on LinkedIn.
 
 
