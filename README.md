@@ -1,7 +1,7 @@
 # 💫 About Me:
-👨‍💻 I am a Computer Science Engineer with a passion for Game Development.<br>
-🚀 Currently working at Beenox.<br>
-🔎 Looking for a 6 month internship as project manager.<br>
+👨‍💻 Computer Science Engineering and Finance.
+🚀 Currently studying at ESSEC Business School.
+🔎 Exploring things
 📫 Shoot me an Email or add me on LinkedIn.
 
 
